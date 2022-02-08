@@ -14,9 +14,9 @@ public class Algorithms{
     }
 
 // Algorithm 3
-    static int FindIndex(int[] arr, int number){
-        return arr.indexOf(number);
-    }
+    // static void FindIndex(int[] arr, int number){
+    //    return arr.indexOf(number);
+    // }
 
 // Algorithm 4
     static int Convert(int num){

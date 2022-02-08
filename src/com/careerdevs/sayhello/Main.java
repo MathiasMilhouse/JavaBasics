@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Enter your first name:");
         String name = scanner.nextLine();
 
-        System.out.println("It is so nice to formally meet you " + "" + name);
+        System.out.println("It's so nice to  meet you" + " " + name);
     }
 
     public static void whatIsYourFullName() {
